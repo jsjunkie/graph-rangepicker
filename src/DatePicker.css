@@ -2,7 +2,7 @@
   width: 20px;
   height: 30px;
   position: absolute;
-  border: 1px solid blueviolet;
+  border: 2px solid white;
 }
 
 .bar-light {
@@ -24,6 +24,7 @@
   border-top: 1px solid gray;
   position: relative;
   margin-top: 10px;
+  width: 350px;
 }
 
 .slider {
@@ -39,7 +40,7 @@
 }
 
 .box {
-  border: 1px solid lightblue;
+  border: 2px solid lightblue;
   height: 100px;
 }
 
