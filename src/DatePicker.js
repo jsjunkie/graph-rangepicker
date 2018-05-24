@@ -6,7 +6,7 @@ export default class DatePicker extends Component {
     super();
 
     this.state = {
-      bars: [20, 30, 10, 33]
+      bars: [20, 30, 10, 33, 22]
 
     }
   }
